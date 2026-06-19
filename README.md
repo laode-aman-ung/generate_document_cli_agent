@@ -37,8 +37,8 @@ Bahasa: **Indonesian, English**
 
 ```bash
 # Clone repository
-git clone https://github.com/<username>/cleverdoc-cli-agent.git
-cd cleverdoc-cli-agent
+git clone https://github.com/laode2010/generate_document_cli_agent.git
+cd generate_document_cli_agent
 
 # (Opsional) Buat virtual environment
 python -m venv venv
