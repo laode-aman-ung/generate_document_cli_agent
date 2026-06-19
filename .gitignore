@@ -1,0 +1,22 @@
+# Secrets — jangan pernah commit file ini
+.env
+
+# Hasil generate dokumen
+output/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
